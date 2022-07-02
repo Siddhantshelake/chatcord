@@ -28,7 +28,7 @@ This is a full-stack chat application that can be up and running with just a few
 
 Clone the project
 ```bash
-  git clone 
+  git clone https://github.com/Siddhantshelake/chatcord
 ```
 
 Install my-project with npm
@@ -86,16 +86,16 @@ Install my-project with npm
 
 
 # Login 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/chatcord/blob/master/public/login.PNG)
 
 # Sign up
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![https://github.com/Siddhantshelake/chatcord/blob/master/public/sign%20in.PNG)
 
 # update Profile
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/chatcord/blob/master/public/update%20profile.PNG)
 
 # user 1
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/chatcord/blob/master/public/user1.PNG)
 # user 2 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Siddhantshelake/chatcord/blob/master/public/user%202.PNG)
 
