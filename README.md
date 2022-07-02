@@ -89,7 +89,7 @@ Install my-project with npm
 ![App Screenshot](https://github.com/Siddhantshelake/chatcord/blob/master/public/login.PNG)
 
 # Sign up
-![https://github.com/Siddhantshelake/chatcord/blob/master/public/sign%20in.PNG)
+![App Screenshot](https://github.com/Siddhantshelake/chatcord/blob/master/public/sign%20in.PNG)
 
 # update Profile
 ![App Screenshot](https://github.com/Siddhantshelake/chatcord/blob/master/public/update%20profile.PNG)
